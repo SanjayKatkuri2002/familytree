@@ -1,4 +1,4 @@
-// var options = getOptions();
+var options = getOptions();
 
 // let loginDetails = localStorage.getItem("loginDetails");
 
